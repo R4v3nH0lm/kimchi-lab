@@ -6,7 +6,7 @@
 `vagrant up`
 
 ## Tree
-.
-├── README.md
-├── Vagrantfile
-└── kimchi_install.sh
+	kimchi-lab
+	├── README.md
+	├── Vagrantfile
+	└── kimchi_install.sh
